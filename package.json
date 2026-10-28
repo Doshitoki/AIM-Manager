@@ -1,0 +1,19 @@
+{
+  "name": "com.asoviva.aim-manager",
+  "version": "0.1.0",
+  "displayName": "AIM Manager",
+  "description": "A Unity toolkit for managing interactive music states, layers, fades, and unlock-based BGM changes.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Studio AsoViva"
+  },
+  "keywords": [
+    "unity",
+    "audio",
+    "interactive music",
+    "bgm",
+    "toolkit",
+    "editor"
+  ],
+  "category": "Audio"
+}
